@@ -55,17 +55,11 @@
             "massdriver-description":   "貨物發射器是一座強力的電磁動能發射器，講直接一點就是個電磁砲，但它發射的是貨物不是子彈。/n您可以透過將貨物發射到#motherland來賺錢。",
             "lg-manufacturing-desc":    "研究如何在特殊環境生產各種貨物，以供應殖民地的需求。",
             "chipfactory-description":  "晶片工廠可將黃金加工成為晶片。/n什麼時候晶片不需要半導體了？算了，別管這麼多了，開心就好=w=",
-
-            "tax-payment-thankyou":     "#motherland 大會感謝您的合作。",
-
-            "tax-payment-insufficient": "您繳交給 #motherland 的金額不夠付清稅款。欠款會累積到下次繳稅。",
-
-            "stage-1-intro":            "星球上的大氣濃度開始足以維持微生物的生命！",
-
+            "tax-payment-thankyou":     "#motherland大會感謝您的合作。",
+            "tax-payment-insufficient": "您繳交給#motherland的金額不夠付清稅款。欠款會併入下次的稅單。",
+            "stage-1-intro":            "殖民地的大氣濃度開始足以維持微生物的生命！",
             "stage-2-intro":            "隨著星球上的大氣增加，小型植物開始生根發芽！",
-
-            "stage-3-intro":            "現在的大氣濃度與地球相似，所有人可以自由地在室外活動！",
-
+            "stage-3-intro":            "現在這裡的大氣濃度與地球相似，所有人可以自由地在室外活動！",
             "col-civics-desc":          "學習如何開始為你的人民成立殖民政府、建造公民服務設施，以及訂立法律！",
 
             "atmosgen2-description":    "一部擁有更高效率、更高耗能的中型製氣機。",
