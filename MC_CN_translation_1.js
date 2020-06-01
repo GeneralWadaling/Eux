@@ -1,11 +1,11 @@
 		"zh": {
             "app_name":    		"My Colony",
             "new-game-message":         "報告指揮官，我們剛登上這顆星球，並準備好開始殖民了。我們該叫它什麼名字？",
-            "welcome-message":          "您剛與#motherland簽下殖民合約，並來到這個專屬於您的殖民地。/n  在這裡您可以在這做任何您想做的事，但首先您需要收集一些基本資源。/n  請點擊探勘車(Rover)，右下方會出現功能選單，請點擊黃色圖標讓探勘車開始收集資源。",
+            "welcome-message":          "您剛與#motherland聯邦簽下殖民合約，並來到這個專屬於您的殖民地。/n  在這裡您可以在這做任何您想做的事，但首先您需要收集一些基本資源。/n  請點擊探勘車(Rover)，右下方會出現功能選單，請點擊黃色圖標讓探勘車開始收集資源。",
             "rover-description":        "探勘車是遊戲初期最重要的工作單位。它能採集原礦和建造數種基礎設施。",
-            "lander-description":       "著陸器是遊戲初期最重要的建築之一，它提供2單位的電力與少量基本資源儲存空間，可切換至飛行模式來移動位置",
+            "lander-description":       "著陸器是遊戲初期最重要的建築之一，它提供2單位的電力頻寬與少量基本資源儲存空間，可切換至飛行模式來移動位置",
             "mine-description":         "人造的原礦礦場，可用探勘車或原礦運輸車來採集資源。/n  在遊戲初期，若您不想因原礦消耗殆盡而迎來Bad End的話，請多造一些原礦礦場",
-            "pavement-description":     "柏油路？不，這是原礦路！當地面工作單位在上面移動時，會有速度I的效果。/n  聽說物質被分解到奈米程度時，物理性質會有所變化，難道這就是它變白色的原因？/n[可升級至強化道路]",
+            "pavement-description":     "柏油路？不，這是原礦路！當地面工作單位在上面移動時會有速度I的效果。/n  聽說物質被分解到奈米程度時，物理性質會有所變化，難道這就是它變白色的原因？/n[可升級至強化道路]",
             "greenhouse-description":   "溫室也是遊戲初期最重要的建築之一，它能生產食物並提供少量食物儲存空間，沒有它，您的殖民地也許還沒起飛就迎來Bad End了。/n  若您需要更多食物儲存空間，可以建造一些糧倉"
             "silo-description":         "糧倉，就只是個糧倉，就只是個大桶子，能提供更多食物儲存空間。/n[可升級至大糧倉]",
             "atmosgen-description":     "小型大氣產生機，能夠緩慢提升大氣濃度，在一些大氣濃度較低的殖民地或許會看到它。/n  過低的大氣濃度可能導致殖民者們無法正常生存！",
@@ -13,50 +13,29 @@
             "builder-description":      "基礎建築車在遊戲初期是相當常用的工作單位，大多數基礎建築由它們建造。/n  若想追求更高的建築速度，可以多造幾臺並將其合併為一個單位。",
             "beta-info":                "My Colony 是一款測試中的殖民地建設模擬器及策略遊戲。  雖然內容不算豐富，但希望各位能夠玩的盡興，並在我們的官方論壇回報可能的任何問題，或提議新增新的文明、星球類型、建築、工作單位……等，讓這個遊戲能夠變得更完整！/n/n  也許某天你就會看到你提議的東西出現在遊戲裡！",
             "lander-sell-warning":      "警告！  這則訊息不是教學的一部分！！/n/n  著陸器是遊戲初期唯一能夠儲存資源的建築，且無法透過任何方式建造！/n/n  除非您非常確定已經不需要它，否則不建議賣掉著陸器！！/n/n  您確定要將它賣掉？",
-            "refinery-description":     "基礎煉鋼廠，使用6單位電力並消耗原礦來生產鋼。/n[可升級至進階煉鋼廠][無法移動的建築]",
-            "miner-description":        "原礦運輸車是能採集並運輸原礦的工作車輛，每臺/次可以運輸",
-
-            "small-panel-description":  "太陽能板能為殖民地產生少量的電力，且不需要輸入任何資源。",
-
-            "landing-pad-description":  "新的殖民者每隔一段時間就會透過著陸點來到你的殖民地。",
-
-            "small-shelter-description":"最基本的小型房屋。最多可住3個殖民者。",
-
-            "chop-shop-description":    "拆車場能回收一些老舊、多餘、或沒有用的工作車輛(尤其是探勘車)。",
-
-            "goldminer-description":    "黃金採集者(Gold Miner)能開採黃金並運輸至黃金精煉場。",
-
-            "goldrefinery-description": "黃金精煉廠能儲存金礦，並把它們精煉成純度更高的黄金。",
-
-            "goldsmelter-description":  "製幣廠能把黃金鑄造成閃閃發亮的硬幣！",
-
-            "hire-button-change-job":   "更改工作",
-
+            "refinery-description":     "基礎煉鋼廠，佔用6單位電力頻寬並消耗原礦來生產鋼。/n[可升級至進階煉鋼廠][無法移動的建築]",
+            "miner-description":        "原礦運輸車是能採集並運輸原礦的工作車輛，每臺/次可以運輸30單位的原礦/n  大多數工作單位都和探勘車一樣可以將多個單位合併為一個，這可以提升您收集資源的效率，同時也能讓遊戲變得更順暢",
+            "small-panel-description":  "每片小型太陽能板能為殖民地提供8單位的電力頻寬，且不消耗任何資源。/n神奇的是，它雖然叫做太陽能板，但似乎能24小時工作(?(如果不行，試試調整遊戲設定吧)",
+            "landing-pad-description":  "著陸墊和停機坪類似，只差在降落的是新的殖民者而不是飛機。佔用2單位電力頻寬。",
+            "small-shelter-description":"最基本的小型庇護所。最多能住3位殖民者。/n造價便宜，所以常是新殖民地的造屋首選。/n寒酸？不，這叫簡約！",
+            "chop-shop-description":    "拆車場，車子進去，資源出來，殖民地發大財！(誤/n只要你有夠多的廢車，你就有無限的資源了！(大誤/n(最常進出這裡的是一種叫探勘車的東西(小聲",
+            "goldminer-description":    "黃金運輸車，如同原礦運輸車一樣，只是資源從原礦變成了黃金。/n看來造車廠的輪胎特別堅固，長時間運輸黃金都不會出事(X",
+            "goldrefinery-description": "黃金倉庫，提供5000單位的黃金儲存空間。/n您說英文直譯是黃金精煉廠？抱歉，作者可能忘記幫它加上這功能了xwx",
+            "goldsmelter-description":  "製幣廠，一種真的能讓您的殖民地發大財的建築(誤。它能把黃金變成閃閃發亮的金幣！/n會不會有人會認為它是透過賣黃金來賺錢的啊？(思考",
+            "hire-button-change-job":   "更換工作",
             "hire-button-hire":         "聘用",
-
             "object-sell":              "出售",
-
             "object-remove":            "移除",
-
             "side-menu-game-data":      "遊戲資訊",
-
             "delete-game-confirm":      "確定刪除這個殖民地?",
-
             "header-delete-colony":     "刪除殖民地",
-
-            "tax-window-header":        "#motherland 徵税",
-
-            "tax-window-content":       "鑒於你的殖民地相當成功， #motherland 大會很高興的通知您，您的殖民地需要向 #motherland 繳稅。",
-
-            "tax-window-owed-header":   "稅金: ",
-
-            "tax-window-pay":           "付稅",
-
+            "tax-window-header":        "來自#motherland的稅單",
+            "tax-window-content":       "鑒於您的殖民地相當成功，#motherland的大會決定向您的殖民地徵稅。",
+            "tax-window-owed-header":   "稅額: ",
+            "tax-window-pay":           "付款",
             "tax-window-reject":        "回絕",
-
-            "tax-window-pay-response":  " #motherland 大會感謝您的合作以及對聯邦的貢獻。",
-
-            "tax-window-reject-response": " #motherland 大會提醒您，依照聯邦法律的規定，您必須繳交稅款。大會稍後會再作通知。 ",
+            "tax-window-pay-response":  "#motherland大會感謝您的合作以及對聯邦的貢獻。",
+            "tax-window-reject-response": "#motherland大會提醒您，依照您在開始殖民時簽下的聯邦合約規定，您必須繳交稅款。",
 
             "adv-hydro-desc":           "學習種植水耕作物的進階技術。可以大幅提升食物的產量",
 
